@@ -4,6 +4,10 @@ Welcome to my quantitative finance portfolio.
 
 This repository documents my learning journey in quantitative finance, programming, data analysis, and algorithmic trading.
 
+## About Me
+
+I am a Computer Science and Economics student at the University of Toronto, interested in quantitative finance, data analysis, and algorithmic trading.
+
 ## Goals
 
 - Strengthen Python skills for quantitative finance

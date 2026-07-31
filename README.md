@@ -1,2 +1,2 @@
-# Quant-Porfolio
+# Quant-Porfoliot
 My quantitative finance projects and learning journey.

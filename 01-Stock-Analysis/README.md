@@ -1,11 +1,12 @@
 # Project 1 - Stock Analysis
 
 ## Objective
+Learn how to use Python to analyze stock market data.
 
 ## Skills
 
 - Python
-- pandad
+- pandas
 - NumPy
 - matplotlib
 
